@@ -14,16 +14,7 @@ A mobile & web-friendly note-taking app built using Flutter. Designed for Bahria
 
 🖥️ Works on Android, iOS, and Web
 
-📸 Screenshots
-Home Screen	Add/Edit Note
 
-📝 How to add screenshots:
-
-Create a folder called screenshots in your repo root.
-
-Place PNG/JPG files inside, e.g., home.png, edit.png.
-
-Reference them using ![label](screenshots/filename.png) in the markdown.
 
 🛠 Tech Stack
 Flutter 3.x
